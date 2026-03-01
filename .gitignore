@@ -7,3 +7,7 @@ venv/
 
 # Local tooling
 .qodo/
+
+# Trained model artifacts
+models/
+
